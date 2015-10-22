@@ -363,7 +363,7 @@ class SolutionWithReport():
 
 
 
-		print
+		print 
 
 
 
@@ -377,7 +377,7 @@ class SolutionWithReport():
 
 
 
-		print
+		print 
 
 
 
@@ -403,3 +403,4 @@ if __name__ == '__main__':
 	solution.extract()
 
 	solution.generateReport()
+	
